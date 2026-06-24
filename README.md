@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Yaswanthi Kotha<br><br>AI & Data Science Student interested in Artificial Intelligence, Data Science, Full-Stack Development, and Cybersecurity.<br><br>I enjoy building practical applications that solve real-world problems and help me learn new technologies through hands-on experience.<br><br>## About Me<br><br>* Pursuing a degree in Artificial Intelligence & Data Science<br>* Interested in AI, Data Science, Web Development, and Cybersecurity<br>* Familiar with Java (basics), Python, JavaScript, and MySQL<br>* Enjoy building projects and exploring emerging technologies<br>* Continuously learning and improving through problem-solving<br><br>## Tech Stack<br><br>### Languages<br><br>* Java (Basics)<br>* Python<br>* JavaScript<br><br>### Frontend<br><br>* HTML<br>* CSS<br><br>### Backend<br><br>* Spring Boot<br>* FastAPI<br><br>### Databases<br><br>* MySQL<br>* MongoDB<br><br>### Tools<br><br>* Git<br>* GitHub<br>* VS Code<br>* Postman<br>* Orange Data Mining<br><br>## Projects<br><br>### TrustLens X<br><br>A Smart Threat Intelligence Platform built using React, Spring Boot, and MySQL.<br><br>Key Highlights:<br><br>* Threat monitoring and analysis<br>* Secure authentication system<br>* Responsive user interface<br>* Full-stack architecture<br><br>### NexusHUB<br><br>An AI-powered healthcare assistant prototype focused on safe and responsible user guidance.<br><br>Key Highlights:<br><br>* Emergency symptom detection<br>* Medical report upload workflow<br>* Multilingual support<br>* FastAPI backend integration<br>* AI-ready architecture<br><br>### Little Lemon<br><br>A restaurant web application built with modern web technologies.<br><br>Key Highlights:<br><br>* Responsive design<br>* User-friendly interface<br>* Clean and accessible layout<br><br>## GitHub Stats<br><br>![yaswanthi-11's Stats](https://github-readme-stats.vercel.app/api?username=yaswanthi-11\&theme=vue-dark\&show_icons=true\&hide_border=true\&count_private=true)<br><br>![yaswanthi-11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthi-11\&layout=compact\&theme=vue-dark\&hide_border=true)<br><br>## Currently Exploring<br><br>* Artificial Intelligence<br>* Machine Learning<br>* Full-Stack Development<br><br>## Connect<br><br>LinkedIn: [www.linkedin.com/in/yaswanthi-kotha-3324622b5](http://www.linkedin.com/in/yaswanthi-kotha-3324622b5)<br>Email: [yaswanthikotha@gmail.com](mailto:yaswanthikotha@gmail.com)<br><br>"Building projects, learning consistently, and turning ideas into solutions."<br>
 
-<!--
-**yaswanthi-11/Yaswanthi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yaswanthi-kotha-3324622b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanthikotha@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yaswanthi-11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yaswanthi-11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanthi-11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=yaswanthi-11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
